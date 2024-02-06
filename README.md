@@ -1,5 +1,5 @@
-# repo-curso
+# titulo piola
 Repositorio del curso de soy dalto
 
-#Descripcion
+# Descripcion
 Esto es un repo para realizar el curso de soy dalto :)
